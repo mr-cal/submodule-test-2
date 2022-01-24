@@ -1,0 +1,3 @@
+[submodule "submodule-test-3"]
+	path = submodule-test-3
+	url = git@github.com:mr-cal/submodule-test-3.git
